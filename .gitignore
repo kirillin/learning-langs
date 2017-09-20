@@ -1,0 +1,5 @@
+cmake*
+CMake*
+*.pyc
+*.backup
+*.idea

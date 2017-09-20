@@ -1,0 +1,29 @@
+• Game programming and multimedia with pygame, cgkit, pyglet, PySoy,
+Panda3D, and others
+• Serial port communication on Windows, Linux, and more with the PySerial ex-
+tension
+• Image processing with PIL and its newer Pillow fork, PyOpenGL, Blender, Maya,
+and more
+• Robot control programming with the PyRo toolkit
+• Natural language analysis with the NLTK package
+• Instrumentation on the Raspberry Pi and Arduino boards
+• Mobile computing with ports of Python to the Google Android and Apple iOS
+platforms
+• Excel spreadsheet function and macro programming with the PyXLL or DataNi-
+tro add-ins
+• Media file content and metadata tag processing with PyMedia, ID3, PIL/Pillow,
+and more
+• Artificial intelligence with the PyBrain neural net library and the Milk machine
+learning toolkit
+Expert system programming with PyCLIPS, Pyke, Pyrolog, and pyDatalog
+• Network monitoring with zenoss, written in and customized with Python
+• Python-scripted design and modeling with PythonCAD, PythonOCC, FreeCAD,
+and others
+• Document processing and generation with ReportLab, Sphinx, Cheetah, PyPDF,
+and so on
+• Data visualization with Mayavi, matplotlib, VTK, VPython, and more
+• XML parsing with the xml library package, the xmlrpclib module, and third-party
+extensions
+• JSON and CSV file processing with the json and csv modules
+• Data mining with the Orange framework, the Pattern bundle, Scrapy, and custom
+code
