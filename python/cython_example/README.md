@@ -6,7 +6,7 @@ We have:
 * `comile_pyx.sh` example of compiling python scripts to C modules;
 * `setup.py` example of automatic compiling your python scripts.
 
-![execution_time_gradient_desent](https://github.com/kirillin/learning-langs/tree/master/python/cython_example/compare_execution_time.png)
+![execution_time_gradient_desent](https://github.com/kirillin/learning-langs/raw/master/python/cython_example/compare_execution_time.png)
 
 ## What in `comile_pyx.sh`?
 
